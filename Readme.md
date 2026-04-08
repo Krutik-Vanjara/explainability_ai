@@ -10,7 +10,8 @@ Before diving into the main report, it's important to highlight that artificial 
 Human Resource departments worldwide are increasingly adopting artificial intelligence to streamline operations, enhance decision-making, and create more personalized employee experiences. The integration of AI technologies has evolved from experimental initiatives to strategic imperatives for forward-thinking organizations. Based on extensive research, several distinct AI applications in HR have emerged as particularly impactful.
 
 ### Recruitment and Talent Acquisition
-![AI-Powered Recruitment System]([web1.excalidraw (2).png](https://github.com/Krutik-Vanjara/explainability_ai/blob/main/web1.excalidraw%20(2).png)
+
+![AI-Powered Recruitment System](https://github.com/Krutik-Vanjara/explainability_ai/blob/main/web1.excalidraw%20(2).png)
 
 Recruitment represents one of the most mature and widely adopted AI use cases in HR. Traditionally, talent acquisition has been characterized by manual resume screening, subjective interview assessments, and limited candidate pools, often resulting in inefficiencies, biases, and missed opportunities to identify ideal candidates.
 
