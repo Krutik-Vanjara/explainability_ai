@@ -1,3 +1,24 @@
+# 🚀 AI in Human Resources: Strategic Implementation Framework
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue) 
+![Industry](https://img.shields.io/badge/Industry-Banking%20%26%20Finance-green) 
+![Compliance](https://img.shields.io/badge/Compliance-GDPR%20%7C%20EU%20AI%20Act-red)
+![Storage](https://img.shields.io/badge/Storage-Key--Value-orange)
+
+> **Authors:** Abhishek Gupta, Jaydeep Roy, Krutik Vanjara, Samuel Koshey
+
+---
+
+## 📝 Executive Summary
+Artificial intelligence is rapidly transforming human resource management across industries. This comprehensive analysis explores various AI applications in HR, identifies **Recruitment and Talent Acquisition** as the most strategic use case for the banking sector, and provides a 12-15 month implementation roadmap.
+
+---
+
+
+
+
+
+
 # AI in Human Resources: Strategic Use Cases and Implementation Framework
 
 Abhishek Gupta, Jaydeep Roy, Krutik Vanjara, Samuel Koshey
